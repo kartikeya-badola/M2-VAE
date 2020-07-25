@@ -9,4 +9,4 @@ My implementation of the probabilistic graphical model presented in the above pa
 
 ![generation](https://github.com/kartikeya-badola/M2-VAE/blob/master/classwise_generations.png)
 
-Class-wise generations after only 10 epochs of training. Standard deviation matrix was varied from left to right.
+Class-wise generations after only 10 epochs of training. z was varied from left to right
